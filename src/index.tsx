@@ -12,7 +12,7 @@ import Header from './components/header.tsx';
 import Footer from './components/footer.tsx';
 
 // index style sheet
-import './index.css';
+import './assets/index.css';
 
 // page root
 const root = document.getElementById('root');
@@ -20,7 +20,7 @@ if (!root) throw new Error("Root div not found!");
 
 render(() => (
     <>
-        <Header/>
+        <Header />
             <Router>
                 <Route path="*" component=<NotFound />/>
                 <Route path="/" component=<App />/>

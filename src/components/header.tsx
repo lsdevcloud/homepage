@@ -1,13 +1,13 @@
-import './header.css'
+import '../assets/components/header.css';
 
-export default function Header() {
+export default function Header()
+{
 
     function randomImage()
     {
 
         const random = Math.round((Math.random() * 5) + 1);
-        console.log(random);
-
+        return random;
     }
 
 	return (
