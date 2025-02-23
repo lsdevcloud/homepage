@@ -3,13 +3,13 @@
     src: url('./FiraSans-Regular.ttf');
 }
 
-html {
-    
+html {    
     --header-height: 10vh;
 
     background-color: black;
     font-family: 'FiraSans';
 }
+
 #main {
     margin-top: calc(var(--header-height) + 5vh);
     color:white;
@@ -23,11 +23,9 @@ html {
 a {
     color:white;
     text-decoration: none;
-
 }
 
 a:hover {
-
     text-decoration:underline;
 }
 
