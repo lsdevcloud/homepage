@@ -1,0 +1,18 @@
+#footer {
+	background-color: #2c2c2c;
+    position: fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+}
+
+#footer-nav {
+
+    margin-left: 5vw;
+    display: flex;
+}
+
+.nav-entry {
+    margin-right: 10vw;
+    float: right;
+}

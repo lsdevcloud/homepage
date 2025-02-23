@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'FiraSans';
+    src: url('./FiraSans-Regular.ttf');
+}
+
+html {
+    background-color: #3c3c3c;
+    font-family: 'FiraSans';
+}
+
+a {
+    color:white;
+    text-decoration: none;
+
+}
