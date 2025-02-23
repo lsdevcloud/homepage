@@ -9,11 +9,9 @@ function App() {
 
   return (
     <>
-        <Header />
         <div id='main'>
             <p>main content</p>
         </div>
-    	<Footer />
     </>
   )
 }

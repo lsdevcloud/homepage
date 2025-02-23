@@ -12,7 +12,10 @@ export default function Footer(){
                     <h3><a href='https://github.com/lsdevcloud'>github</a></h3>
                 </div>
                 <div class='nav-entry'>
-                    <h3><a href='https://github.com/lsdevcloud'>github</a></h3>
+                    <h3><a href='mailto:lesc@lsdevcloud.net'>contact</a></h3>
+                </div>
+                <div class='nav-entry'>
+                    <h3><a href='/imprint'>imprint</a></h3>
                 </div>
             </div>
 		</div>
