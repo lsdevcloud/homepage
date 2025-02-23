@@ -6,6 +6,7 @@ import { Router, Routes, Route } from "@solidjs/router";
 import App from './pages/main.tsx';
 import NotFound from './pages/notfound.tsx';
 import Imprint from './pages/imprint.tsx';
+import Contact from './pages/contact.tsx';
 
 // components
 import Header from './components/header.tsx';
@@ -24,6 +25,7 @@ render(() => (
             <Router>
                 <Route path="*" component=<NotFound />/>
                 <Route path="/" component=<App />/>
+                <Route path="/contact" component=<Contact />/>
                 <Route path="/imprint" component=<Imprint />/>
             </Router>
         <Footer/>
