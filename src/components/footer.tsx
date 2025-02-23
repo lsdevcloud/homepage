@@ -17,6 +17,10 @@ export default function Footer(){
                 <div class='nav-entry'>
                     <h3><a href='/imprint'>imprint</a></h3>
                 </div>
+                <div class='footer-info'>
+
+                    <h4>lsdevcloud.com is owned by <a href='https://lsdevmedia.net'>lsdevmedia</a>.</h4>
+                </div>
             </div>
 		</div>
 	</>

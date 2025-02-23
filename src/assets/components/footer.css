@@ -16,3 +16,14 @@
     margin-right: 10vw;
     float: right;
 }
+
+.footer-info {
+    color: #3d3d3d;
+    font-style: italic;
+}
+
+.footer-info a{
+
+    color: #3d3d3d;
+
+}
