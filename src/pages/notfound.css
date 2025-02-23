@@ -1,0 +1,11 @@
+#error-details {
+
+    margin-top: 30vh;
+    text-align: center;
+}
+
+#error-message {
+    text-align: center;
+
+    font-size: 30px;
+}
