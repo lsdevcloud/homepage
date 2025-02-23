@@ -4,8 +4,20 @@
 }
 
 html {
+    
+    --header-height: 10vh;
+
     background-color: black;
     font-family: 'FiraSans';
+}
+#main {
+    margin-top: calc(var(--header-height) + 5vh);
+    color:white;
+    margin-left: 3vw;
+}
+
+#page-title {
+    font-size: 2vw;
 }
 
 a {
