@@ -19,7 +19,7 @@ export default function Footer(){
                 </div>
                 <div class='footer-info'>
 
-                    <h4>lsdevcloud.com is owned by <a href='https://lsdevmedia.net'>lsdevmedia</a>.</h4>
+                    <h4>lsdevcloud.com is a subsidiary of  <a href='https://lsdevmedia.net'>lsdevmedia</a>.</h4>
                 </div>
             </div>
 		</div>
