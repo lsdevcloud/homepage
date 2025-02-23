@@ -15,7 +15,7 @@ export default function Header()
 			<div class='header-title'>
 			    <h2>
                     <a href='/'>
-                        <img src={`/hdrimg-${randomImage()}`} />
+                        <img id='header-image' alt='== lsdevcloud.com ==' src={`/hdrimg-${randomImage()}.png`} />
                     </a>
                 </h2>
 			</div>
